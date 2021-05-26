@@ -1,6 +1,6 @@
 /**
  * A basic 3D point with x, y, and z coordinates.
- * @author Norm Krumpe
+ * @author Moon Bui
  *
  */
 public class Point3D implements Comparable{
